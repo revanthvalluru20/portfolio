@@ -77,4 +77,3 @@ return <div class='vas'>
 }
 
 export default F1;
-t
